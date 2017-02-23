@@ -1,3 +1,4 @@
+// @flow
 import identity from 'lodash/identity';
 import camelCase from './camelCase';
 import isPlainObject from 'lodash/isPlainObject';

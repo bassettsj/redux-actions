@@ -1,3 +1,4 @@
+// @flow
 import isFunction from 'lodash/isFunction';
 import isPlainObject from 'lodash/isPlainObject';
 import identity from 'lodash/identity';

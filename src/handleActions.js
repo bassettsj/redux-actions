@@ -1,3 +1,4 @@
+// @flow
 import handleAction from './handleAction';
 import ownKeys from './ownKeys';
 import reduceReducers from 'reduce-reducers';

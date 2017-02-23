@@ -1,3 +1,4 @@
+// @flow
 export default function ownKeys(object) {
   if (typeof Reflect !== 'undefined' && typeof Reflect.ownKeys === 'function') {
     return Reflect.ownKeys(object);
